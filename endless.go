@@ -18,7 +18,7 @@ import (
 	"time"
 
 	// "github.com/fvbock/uds-go/introspect"
-	"https://github.com/g-utils/endless/tree/master/signals"
+	"github.com/g-utils/endless/tree/master/signals"
 )
 
 const (
